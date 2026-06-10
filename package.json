@@ -1,0 +1,16 @@
+{
+  "name": "fitpro-academia",
+  "version": "1.0.0",
+  "description": "Sistema de gestão para academias com Supabase",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
